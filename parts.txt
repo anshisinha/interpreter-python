@@ -1,0 +1,11 @@
+The parts of an interpreter:
+
+Lexer:
+    The lexer takes the input string that we want to parse.
+    It then generates tokens from the input string.
+Parser:
+    Builds a tree of what is going to happen
+Abstract Syntax Tree
+Byte Code-compiler
+Byte Code interpreter
+Runtime
